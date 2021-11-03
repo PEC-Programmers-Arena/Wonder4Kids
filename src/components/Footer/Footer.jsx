@@ -10,14 +10,14 @@ function Footer(){
 		<>
 			<div className="grid">
 				<IconButton color="primary">
-				<GitHubIcon fontSize="large"/>
+				<a href="https://github.com/PEC-Programmers-Arena/Wonder4Kids"><GitHubIcon fontSize="small"/></a>
 				</IconButton>
 
 				<IconButton color="primary">
 					Contact Us
 				</IconButton>
 
-				<IconButton>
+				<IconButton color="primary">
 					<TabScrollButton orientation="vertical" direction="left"/>
 				</IconButton>
 			</div>
