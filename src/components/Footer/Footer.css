@@ -1,0 +1,12 @@
+.grid{
+    background-color: #181717;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-top: 1px solid #333232;
+    /* font-color; */
+}
+
+.footerIcon{
+    color: #10a0cc;
+}
